@@ -1,0 +1,26 @@
+1. Generate a player and dealer, both have a hand and name, player has a pot to bet with
+2. Produce a deck of cards
+3. Shuffle the cards (maybe use a fancy algorithm?)
+4. Cut cards
+5. Place minimum bet
+6. Deal two cards to player and dealer(Dealer showing one card)
+7. Get player total
+8. Player bets
+9. Check player for blackjack
+10. Player hit or stay until stay or bust
+11. If player stays, check dealer for blackjack
+12. Get Dealer's value. Dealer will stay on 17 or greater.
+13. Dealer hits until greater than 17, has blackjack or busts.
+14. Compare final hands if need be
+15. Award or take money
+
+
+Nouns
+=======
+
+Player
+Human < Player
+Dealer < Player
+Deck
+Cards
+Bet, Money
